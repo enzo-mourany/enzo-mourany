@@ -13,7 +13,7 @@
 
 ## Connect with me :
 
-[<img align="left" alt="Enzo Mourany | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="https://www.linkedin.com/in/enzo-mourany-9b4a37228/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 ## Languages and tools :
 
