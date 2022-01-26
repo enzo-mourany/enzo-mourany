@@ -9,7 +9,6 @@
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enzo-mourany&theme=radical)
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=enzo-mourany&theme=react&hide_border=true&layout=compact"> 
 
 
 ## Connect with me :
