@@ -13,13 +13,17 @@
 
 ## Stats :
 
-<div align=center>
-<img align="center" src="https://github-readme-stats.vercel.app/api?enzo-mourany=anuraghazra&show_icons=true&theme=radical" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?enzo-mourany=anuraghazra&layout=compact" />
+<a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+  <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=enzo-mourany&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+  <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=enzo-mourany&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+</a>
 
 ## Connect with me :
 
-[<img align="left" alt="Enzo Mourany | LinkedIn" width="26px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
+
+[<img align="left" alt="Enzo Mourany | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
 
 <br />
 
@@ -37,8 +41,6 @@
 <img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
   
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   
@@ -49,7 +51,6 @@
 <img align="left" alt="Vim" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
 </p>
 
-<img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
 
 
