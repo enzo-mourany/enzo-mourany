@@ -25,6 +25,7 @@
 
 [<img align="left" alt="Enzo Mourany | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
 
+<br />
 
 ## Languages and tools :
 
