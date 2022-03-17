@@ -13,21 +13,13 @@
 
 ## Stats :
 
-<br>
-<p align=center>
-  <div align=center>
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?enzo-mourany=anuraghazra&show_icons=true&theme=radical)
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?enzo-mourany=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-  readme-stats)
-    
-  </div>
-</p>
-
+<div align=center>
+<img align="center" src="https://github-readme-stats.vercel.app/api?enzo-mourany=anuraghazra&show_icons=true&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?enzo-mourany=anuraghazra&layout=compact" />
 
 ## Connect with me :
 
 [<img align="left" alt="Enzo Mourany | LinkedIn" width="26px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
-[mailto](mailto:enzo.mourany@outlook.com)
-
 
 <br />
 
