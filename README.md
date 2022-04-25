@@ -11,7 +11,7 @@
 
 - 🤝 I'm finished developing a **tabata mobile app**
 
-- 👨‍💻 All of my projects are available at [enzomourany.com](enzomourany.com)
+- 👨‍💻 All of my projects are available at [https://enzomourany.com](enzomourany.com)
 
 - 📫 How to reach me **enzo.mourany@outlook.com**
 
