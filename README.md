@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Enzo Mourany</h1>
 <h3 align="center">I'm a 18 years old student and web3 developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=enzo-mourany&label=Profile%20views&color=0e75b6&style=flat" alt="enzo-mourany" /> </p>
+<br />
 
 - 🔭 I’m currently working on **a chat app MERN**
 
