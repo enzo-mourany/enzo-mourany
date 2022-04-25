@@ -1,94 +1,31 @@
-### Hi there ! I'm **Enzo Mourany**
-### I'm a 18 years old computer science student in first year on "BUT Informatique"
+<h1 align="center">Hi 👋, I'm Enzo Mourany</h1>
+<h3 align="center">I'm a 18 years old student and web3 developer</h3>
 
-<br />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=enzo-mourany&label=Profile%20views&color=0e75b6&style=flat" alt="enzo-mourany" /> </p>
 
-# I code FullStacks JS Projects especially **Web 3.0 Projects**
+- 🔭 I’m currently working on **a chat app MERN**
 
-- I'm finished developing a tabata mobile application
-- Currently learing Node JS
-- Coding with React to dev apps and website
-- Working on Web 3.0 projects
-- Interested in cryptocurrencies
-- I'm curently learning Java and C# for studies
+- 🌱 I’m currently learning **Node JS**
 
+- 👯 I’m looking to collaborate on **the ethereum project**
 
-# Stats :
+- 🤝 I'm finished developing a **tabata mobile app**
 
-<div style="display: flex; flex-direction: row">
+- 👨‍💻 All of my projects are available at [enzomourany.com](enzomourany.com)
 
-<a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-  <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=enzo-mourany&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
-</a>
+- 📫 How to reach me **enzo.mourany@outlook.com**
 
-<a style="margin-left: 20px" href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-  <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=enzo-mourany&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-</a>
-
-</div>
-
-
-
-<br />
-
-# Connect with me :
-
-<div style="display: flex; flex-direction: row">
-
-[<img align="left" alt="Enzo Mourany | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
-
-
-<svg style="margin-left: 20px" align="left" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-mail"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg>
-<p style="margin-left: 10px">enzo.mourany@outlook.com</p>
-
-</div>
-
-
-
-<br />
-
-# Languages and tools :
-
-<p align="left"> 
-
-<img style="margin-right: 10px; margin-bottom: 5px;" align="left" alt="Solidity" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" />
-
-<img style="margin-right: 10px; margin-bottom: 5px;" align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  
-<img style="margin-right: 10px; margin-bottom: 5px;" align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-
-<img style="margin-right: 10px; margin-bottom: 5px;" align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  
-<img style="margin-right: 10px; margin-bottom: 5px;" align="left" alt="NodeJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-
-<img style="margin-right: 10px; margin-bottom: 5px;" align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-
-  
-<img style="margin-right: 10px; margin-bottom: 5px;" align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-  
-<img style="margin-right: 10px; margin-bottom: 5px;" align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-  
-<img style="margin-right: 10px; margin-bottom: 5px;" align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-
-<img style="margin-right: 10px; margin-bottom: 5px;" align="left" alt="CSharp" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-
-  
-<img style="margin-right: 10px; margin-bottom: 5px;" align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  
-<img style="margin-right: 10px; margin-bottom: 5px;" align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  
-<img style="margin-right: 10px; margin-bottom: 5px;" align="left" alt="Intellij" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-
-<img style="margin-right: 10px; margin-bottom: 5px;" align="left" alt="Vim" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
-
-<img style="margin-right: 10px; margin-bottom: 5px;" align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-
-
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/enzo-mourany-9b4a37228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enzo mourany" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=enzo-mourany&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="enzo-mourany" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enzo-mourany&show_icons=true&theme=tokyonight&locale=en" alt="enzo-mourany" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enzo-mourany&theme=tokyonight" alt="enzo-mourany" /></p>
 
-[linkedin]: https://www.linkedin.com/in/enzo-mourany-9b4a37228/
