@@ -1,4 +1,58 @@
-<h1 align="center">Hi 👋, I'm Enzo Mourany</h1>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 650 85" width="650" height="85" style="/*! background: #0d1117; */">
+      <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <style>
+            @keyframes gradientText {
+              0% {
+                background-position: 0% 50%;
+              }
+              50% {
+                background-position: 100% 50%;
+              }
+              100% {
+                background-position: 0% 50%;
+              }
+            }
+
+            h1 {
+              font-family: 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu',
+                'Cantarell', 'Fira Sans', 'Droid Sans',
+                'Helvetica Neue', sans-serif;
+              margin: 0;
+              font-size: 3.75em;
+              font-weight: 900;
+              letter-spacing: -0.05em;
+              text-align: center;
+              float: center;
+            }
+            .normal {
+              color: #0d1117;
+              -webkit-text-stroke: 0.5px white;
+            }
+            .text {
+              background: -webkit-linear-gradient(
+                right,
+                #f652a0,
+                #36eee0
+              );
+              background: linear-gradient(270deg, #f652a0 0, #36eee0);
+              background-size: 350%;
+              background-clip: text;
+              -webkit-background-clip: text;
+              -webkit-text-fill-color: transparent;
+              -webkit-animation: gradientText 3s ease infinite;
+              animation: gradientText 3s ease infinite;
+            }
+          </style>
+          <h1>
+            <span class="normal">Hy, I'm </span
+            ><span class="text">Enzo</span>
+          </h1>
+        </div>
+      </foreignObject>
+    </svg>
+#
+
 <h3 align="center">I'm a 18 years old student and web3 developer</h3>
 
 <br />
