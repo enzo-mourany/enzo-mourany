@@ -42,8 +42,8 @@
 <br />
 
 <p align="left">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=enzo-mourany&show_icons=true&theme=ayu-mirage&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=enzo-mourany&theme=ayu-mirage&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?enzo-mourany=anuraghazra&theme=ayu-mirage&show_icons=true&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=enzo-mourany&theme=ayu-mirage&hide_border=true" />
     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?enzo-mourany=anuraghazra&theme=ayu-mirage&show_icons=true&hide_border=true)
     [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=enzo-mourany&theme=ayu-mirage&hide_border=true)](https://git.io/streak-stats)
   </a>
