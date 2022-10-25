@@ -38,8 +38,6 @@
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a>
 </p>
 
-#
-
 ## Tools and OS :
 
 <p align="left">
@@ -78,7 +76,7 @@
   </a>
 </p>
 
-<br />
+#
 
 <p align="left">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=enzo-mourany&count_private=true&show_icons=true&theme=ayu-mirage&hide_border=true"> 
