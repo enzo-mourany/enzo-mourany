@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/SASS-323330?style=for-the-badge&logo=sass&logoColor=FFFFFF&color=cb6699"/>
   <img src="https://img.shields.io/badge/Tailwind-323330?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF&color=37bbf5"/>
   <img src="https://img.shields.io/badge/Next JS-323330?style=for-the-badge&logo=next.js&logoColor=FFFFFF&color=000000"/>
-  <img src="https://img.shields.io/badge/Next JS-323330?style=for-the-badge&logo=mongodb&logoColor=FFFFFF&color=439933"/>
+  <img src="https://img.shields.io/badge/Mongo DB-323330?style=for-the-badge&logo=mongodb&logoColor=FFFFFF&color=439933"/>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-323330?style=for-the-badge&logo=html5&logoColor=FFFFFF&color=e44d27"/>
   <img src="https://img.shields.io/badge/CSS-323330?style=for-the-badge&logo=css3&logoColor=FFFFFF&color=1472b6"/>
