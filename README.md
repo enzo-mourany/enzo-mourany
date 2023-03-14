@@ -10,8 +10,6 @@
 <div align="center">
 
   [![LinkedIn][linkedin-shield]][linkedin-url]
-  [![Twitter][twitter-shield]][twitter-url]
-  [![Discord][discord-shield]][discord-url]
 
 </div>
 
@@ -54,26 +52,6 @@
   [![React Native][React Native]][React Native-url]
   [![Prisma][Prisma]][Prisma-url]
   [![Shell][Shell]][Shell-url]
-
-</div>
-
-
-<div align="center">
-  <h1>Tools and OS</h1>
-</div>
-
-<div align="center">
-
-  [![VSCode][VSCode]][VSCode-url]
-  [![Neovim][Neovim]][Neovim-url]
-  [![Figma][Figma]][Figma-url]
-  [![MacOS][MacOS]][MacOS-url]
-  [![Windows][Windows]][Windows-url]
-  [![Ubuntu][Ubuntu]][Ubuntu-url]
-  [![Docker][Docker]][Docker-url]
-  [![Webstorm][Webstorm]][Webstorm-url]
-  [![IntelliJ][IntelliJ]][IntelliJ-url]
-  [![Notion][Notion]][Notion-url]
 
 </div>
 
