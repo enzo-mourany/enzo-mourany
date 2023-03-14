@@ -10,6 +10,8 @@
 <div align="center">
 
   [![LinkedIn][linkedin-shield]][linkedin-url]
+  [![Malt][malt-shield]][malt-url]
+  [![Calendly][calendly-shield]][calendly-url]
 
 </div>
 
@@ -18,6 +20,10 @@
 - 🔭 I’m currently working on a **Social Media App** in **React Native Typescript**
 
 - 🤝 I'm finished developing a **VSCode Extension** in **Typescript**
+
+- 🌱 I'm working with **Next.JS 13**
+
+- 📚 I'm learning **Flutter**
 
 - 👨‍💻 All of my projects are available at **[enzomourany.com](https://enzomourany.com)**
 
@@ -64,20 +70,14 @@
 </p>
 
 
-
-
-[followers-shield]: https://img.shields.io/github/followers/enzo-mourany.svg?style=for-the-badge
-[followers-url]: https://img.shields.io/github/followers/enzo-mourany.svg?style=for-the-badge 
-[visitors-shield]: https://visitor-badge.glitch.me/badge?page_id=enzo-mourany.visitor-badge
-[visitors-url]: https://visitor-badge.glitch.me/badge?page_id=enzo-mourany.visitor-badge
-
+<!-- Shields URLs -->
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=007acc
 [linkedin-url]: https://linkedin.com/in/enzo-mourany
-[twitter-shield]: https://img.shields.io/badge/-Twitter-black.svg?style=for-the-badge&logo=twitter&colorB=000
-[twitter-url]: https://twitter.com/vincenzomry
-[discord-shield]: https://img.shields.io/badge/-Discord-black.svg?style=for-the-badge&logo=discord&colorB=000
-[discord-url]: https://discord.com/users/NaysWer#7066
+[malt-shield]: https://img.shields.io/badge/-Malt-black.svg?style=for-the-badge&logo=malt&colorB=fd5557
+[malt-url]: https://www.malt.fr/profile/enzomourany
+[calendly-shield]: https://img.shields.io/badge/-Calendly-black.svg?style=for-the-badge&logo=calendly&colorB=006cff
+[calendly-url]: https://calendly.com/enzomourany/projectrequest
 
 
 <!-- Technologies URLs -->
