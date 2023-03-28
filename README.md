@@ -73,7 +73,7 @@
 <!-- Shields URLs -->
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=007acc
-[linkedin-url]: https://linkedin.com/in/enzo-mourany
+[linkedin-url]: https://linkedin.com/in/enzomourany
 [malt-shield]: https://img.shields.io/badge/-Malt-black.svg?style=for-the-badge&logo=malt&colorB=fd5557
 [malt-url]: https://www.malt.fr/profile/enzomourany
 [calendly-shield]: https://img.shields.io/badge/-Calendly-black.svg?style=for-the-badge&logo=calendly&colorB=006cff
