@@ -3,7 +3,7 @@
 </h1>
 
 
-<h3 align="center">I'm a web and mobile developer based in France</h3>
+<h3 align="center">I'm a freelanceweb and mobile developer based in France, on Périgueux</h3>
 
 <br />
 
